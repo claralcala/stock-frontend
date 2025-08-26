@@ -16,7 +16,7 @@ Frontend en **React + Vite** para la gestión de inventario, consumiendo la API 
 1. Clonar el repositorio del frontend 
 
     ```bash
-git clone 
+git clone https://github.com/claralcala/stock-frontend
 cd stock-frontend
 
 Instalar dependencias:
